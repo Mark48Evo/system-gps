@@ -25,7 +25,7 @@
     "README.md"
   ],
   "dependencies": {
-    "@mark48evo/rabbitmq-pubsub": "^1.1.1",
+    "@mark48evo/rabbitmq-pubsub": "^1.2.0",
     "amqplib": "^0.5.2"
   },
   "devDependencies": {
