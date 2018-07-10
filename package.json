@@ -1,6 +1,6 @@
 {
   "name": "@mark48evo/system-gps",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A library for sharing system GPS messages",
   "author": "Aurimas Niekis <aurimas@niekis.lt> (https://github.com/Mark48Evo)",
   "license": "MIT",
@@ -25,7 +25,7 @@
     "README.md"
   ],
   "dependencies": {
-    "@mark48evo/rabbitmq-pubsub": "^1.2.0",
+    "@mark48evo/rabbitmq-pubsub": "^1.2.1",
     "amqplib": "^0.5.2"
   },
   "devDependencies": {
